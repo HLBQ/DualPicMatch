@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=icon.png --add-data "icon.png;." --add-data "splash.bmp;." --add-data "tz.png;." --add-data "tiny_similarity.pth;." image_viewer_gui.py

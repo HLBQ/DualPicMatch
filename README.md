@@ -3,8 +3,10 @@
 
 
 ## ⭐开门见山（打包版本,详情见后面）
-[『Windows-A版』](https://github.com/HLBQ/DualPicMatch/releases/tag/V-A)
-[『Windows-B版』](https://github.com/HLBQ/DualPicMatch/releases/tag/V-B)
+### 下载可执行
+1. [『Windows-A版』](https://github.com/HLBQ/DualPicMatch/releases/tag/V-A)
+
+2. [『Windows-B版』](https://github.com/HLBQ/DualPicMatch/releases/tag/V-B)
 
 ### 使用
 1. 下载最新的打包版本（通常为 `.exe` 文件）
